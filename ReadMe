@@ -1,0 +1,6 @@
+echo "# cSharpStudy" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ZoomZoom123/cSharpStudy.git
+git push -u origin master
